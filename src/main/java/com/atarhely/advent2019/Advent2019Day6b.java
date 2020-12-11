@@ -27,7 +27,7 @@ public class Advent2019Day6b {
 				})
 				.collect(Collectors.toList());
 		
-		Advent2019Day6 advent2019Day6 = new Advent2019Day6();
+		Advent2019Day6b advent2019Day6 = new Advent2019Day6b();
 //		int sum = 0;
 //		for (Orbit orbit : orbits) {
 //			sum = sum + advent2019Day6.countIndirect(orbit, orbits);

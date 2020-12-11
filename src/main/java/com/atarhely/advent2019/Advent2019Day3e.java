@@ -5,7 +5,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.atarhely.com.advent.Advent2019Day3.Point;
+import com.atarhely.advent2019.Advent2019Day3.Point;
+
 
 public class Advent2019Day3e {
     public static void main(String[] args) {

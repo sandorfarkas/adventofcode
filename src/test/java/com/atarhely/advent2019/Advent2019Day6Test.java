@@ -1,11 +1,11 @@
-package com.atarhely.advent;
+package com.atarhely.advent2019;
 
 import java.util.List;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import com.atarhely.advent.Advent2019Day6.Orbit;
+import com.atarhely.advent2019.Advent2019Day6.Orbit;
 
 class Advent2019Day6Test {
 	private Advent2019Day6 advent2019Day6;

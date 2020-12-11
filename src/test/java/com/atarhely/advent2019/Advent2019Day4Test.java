@@ -1,4 +1,4 @@
-package com.atarhely.advent;
+package com.atarhely.advent2019;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;

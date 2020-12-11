@@ -1,4 +1,4 @@
-package com.atarhely.advent;
+package com.atarhely.advent2019;
 
 import java.io.IOException;
 import java.nio.file.FileSystems;

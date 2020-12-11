@@ -1,4 +1,4 @@
-package com.atarhely.advent;
+package com.atarhely.advent2019;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -9,8 +9,8 @@ import static org.hamcrest.Matchers.nullValue;
 
 import java.util.Optional;
 
-import com.atarhely.advent.Advent2019Day3.Line;
-import com.atarhely.advent.Advent2019Day3.Point;
+import com.atarhely.advent2019.Advent2019Day3.Line;
+import com.atarhely.advent2019.Advent2019Day3.Point;
 
 
 class Advent2019Day3Test {
